@@ -350,7 +350,7 @@ namespace EushullyEditor {
         /// <summary>
         /// Select how you like regenerate the script here.
         /// </summary>
-        public WriteMethod SaveMethod = WriteMethod.Append;
+        public WriteMethod SaveMethod = WriteMethod.Overwrite;
 
         /// <summary>
         /// The Script Header Size
